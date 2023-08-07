@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+here you will find my latest Projects im currently working on.
+
+HTML:
+https://uyansu.github.io/technical-documentation-page/
+
+React:
+https://teekon-masala.netlify.app/
+
+please refresh the website that is created with React, it will ned a few seconds, till the database in the background delivers the necessary data.
+
 <!--
 **Uyansu/Uyansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
