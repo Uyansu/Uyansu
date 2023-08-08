@@ -5,6 +5,8 @@ here you will find my latest Projects im currently working on.
 HTML:
 https://uyansu.github.io/technical-documentation-page/
 
+Repository: https://github.com/Uyansu/technical-documentation-page
+
 React:
 https://teekon-masala.netlify.app/
 
