@@ -3,7 +3,7 @@
 here you will find my latest Projects im currently working on.
 
 ### HTML:
-https://uyansu.github.io/technical-documentation-page/ <br> https://uyansu.github.io/Skyline-with-variables/ <br> https://uyansu.github.io/landing-page/ <br> https://uyansu.github.io/Ferris-wheel/ <br> https://uyansu.github.io/penguin-css/
+https://uyansu.github.io/Basic_Portfolio_Page/ <br> https://uyansu.github.io/technical-documentation-page/ <br> https://uyansu.github.io/Skyline-with-variables/ <br> https://uyansu.github.io/landing-page/ <br> https://uyansu.github.io/Ferris-wheel/ <br> https://uyansu.github.io/penguin-css/
 ### Repositorys: 
 https://github.com/Uyansu/Basic_Portfolio_Page <br> https://github.com/Uyansu/technical-documentation-page <br> https://github.com/Uyansu/Skyline-with-variables <br> https://github.com/Uyansu/landing-page <br> https://github.com/Uyansu/Ferris-wheel <br> https://github.com/Uyansu/penguin-css
 
