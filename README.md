@@ -14,7 +14,7 @@ https://teekon-masala.netlify.app/ <br> https://su-mortgage-calculator.netlify.a
 ### Repository: 
 https://github.com/Uyansu/Teakon-Masala <br> https://github.com/Uyansu/Mortgage_Calculator
 
-please refresh the website that is created with React a few times, it will need a few seconds, till the database in the background delivers the necessary data.
+please refresh the website for Teakon-Masala a few times, it will need a few seconds, till the database in the background delivers the necessary data.
 
 <!--
 **Uyansu/Uyansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
