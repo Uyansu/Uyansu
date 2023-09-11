@@ -10,7 +10,7 @@ https://github.com/Uyansu/Basic_Portfolio_Page <br> https://github.com/Uyansu/te
 
 
 ### React:
-https://teekon-masala.netlify.app/ <br> 
+https://teekon-masala.netlify.app/ <br> https://su-mortgage-calculator.netlify.app/
 ### Repository: 
 https://github.com/Uyansu/Teakon-Masala <br> https://github.com/Uyansu/Mortgage_Calculator
 
