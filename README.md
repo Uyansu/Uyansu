@@ -10,9 +10,9 @@ https://github.com/Uyansu/Basic_Portfolio_Page <br> https://github.com/Uyansu/te
 
 
 ### React:
-https://teekon-masala.netlify.app/
+https://teekon-masala.netlify.app/ <br> 
 ### Repository: 
-https://github.com/Uyansu/Teakon-Masala
+https://github.com/Uyansu/Teakon-Masala <br> https://github.com/Uyansu/Mortgage_Calculator
 
 please refresh the website that is created with React a few times, it will need a few seconds, till the database in the background delivers the necessary data.
 
