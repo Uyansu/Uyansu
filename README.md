@@ -17,6 +17,7 @@ https://github.com/Uyansu/Teakon-Masala <br> https://github.com/Uyansu/Mortgage_
 please refresh the website for Teakon-Masala a few times, it will need a few seconds, till the database in the background delivers the necessary data.
 
 ### JavaScript Projects:
+https://uyansu.github.io/RolePlayGame/
 
 ### Repository:
 https://github.com/Uyansu/RolePlayGame
