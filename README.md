@@ -20,7 +20,7 @@ please refresh the website for Teakon-Masala a few times, it will need a few sec
 https://uyansu.github.io/RolePlayGame/
 
 ### Repository:
-https://github.com/Uyansu/RolePlayGame
+https://github.com/Uyansu/RolePlayGame <br> https://github.com/Uyansu/CalorieCounter
 
 
 <!--
